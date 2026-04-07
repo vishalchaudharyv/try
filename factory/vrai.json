@@ -1,0 +1,9 @@
+{
+	"name": "vrai",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "01a95c8f-4019-4cba-9292-5d9547e5eb87",
+		"tenantId": "07739642-21db-47f6-8fd3-4e73bf261522"
+	}
+}
